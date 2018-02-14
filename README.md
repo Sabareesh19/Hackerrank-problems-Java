@@ -18,7 +18,6 @@ Sample Input
 5 
 
 Sample Output
-
 1  
 1 1  
 1 2 1  
